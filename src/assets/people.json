@@ -1,0 +1,34 @@
+    [
+      {
+        "name": "Rahul Kumar",
+        "status": "currently coding",
+        "website": {
+          "url": "http://www.google.com",
+          "name": "google.com"
+        },
+        "twitter": {
+          "url": "http://www.twitter.com",
+          "name": "twitter"
+        }
+      },
+      {
+        "name": "Tanvi Sood",
+        "status": "currently cooking",
+        "website": {
+          "url": "http://www.google.com",
+          "name": "google.com"
+        },
+        "twitter": {
+          "url": "http://www.twitter.com",
+          "name": "twitter"
+        }
+      },
+      {
+        "name": "Rohit Kumar",
+        "status": "currently banking",
+        "website": {
+          "url": "http://www.google.com",
+          "name": "google.com"
+        }
+      }
+    ]
